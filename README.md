@@ -183,7 +183,7 @@ build a wheel/source archive and exercise an installed wheel outside the checkou
 
 Releases and package publication are separate from source development.
 
-The [design and task queue](https://github.com/outside-labs/expose_interface/issues/1)
+The [design and task queue](https://github.com/wispsy/expose_interface/issues/1)
 tracks the initial contract and Hidden Moves adoption.
 
 The [Hidden Moves adapter and conformance suite](docs/HIDDEN_MOVES.md) verify
