@@ -13,8 +13,8 @@ dependencies = []
 expose-interface = "expose_interface:main"
 
 [project.urls]
-Source = "https://github.com/outside-labs/expose_interface"
-Issues = "https://github.com/outside-labs/expose_interface/issues"
+Source = "https://github.com/wispsy/expose_interface"
+Issues = "https://github.com/wispsy/expose_interface/issues"
 
 [build-system]
 requires = ["uv_build>=0.12.19,<0.13.0"]

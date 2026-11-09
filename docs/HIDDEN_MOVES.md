@@ -6,7 +6,7 @@ Hidden Moves public API without importing Click. It preserves `moves list`,
 input/output. Malformed JSON fails during parsing before provider setup.
 
 The conformance suite is separate from core tests and uses a real consumer
-checkout. The initial baseline is outside-labs/hidden_moves revision
+checkout. The initial baseline is wispsy/hidden_moves revision
 `6fa99794301efcce34cbed56e7c7b7eef162a184`.
 
 ```sh

@@ -74,7 +74,7 @@ jobs:
           uv pip install --python "$RUNNER_TEMP/consumer-env/bin/python" "$RUNNER_TEMP/library-dist/"*.whl
       - uses: actions/checkout@v4
         with:
-          repository: outside-labs/hidden_moves
+          repository: wispsy/hidden_moves
           ref: 6fa99794301efcce34cbed56e7c7b7eef162a184
           path: .consumer
           persist-credentials: false
